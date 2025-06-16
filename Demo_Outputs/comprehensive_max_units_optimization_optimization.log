@@ -1,0 +1,113 @@
+2025-06-14 11:39:40,016 - comprehensive_max_units_optimization - INFO - Trial 0: -3.6580 (duration: 0.41s, memory: 0.0MB)
+2025-06-14 11:39:40,060 - comprehensive_max_units_optimization - INFO - Trial 0: -3.6580
+2025-06-14 11:39:40,475 - comprehensive_max_units_optimization - INFO - Trial 1: -4.7530 (duration: 0.33s, memory: 0.0MB)
+2025-06-14 11:39:40,556 - comprehensive_max_units_optimization - INFO - Trial 1: -4.7530
+2025-06-14 11:39:40,865 - comprehensive_max_units_optimization - INFO - Trial 2: -0.9449 (duration: 0.22s, memory: 0.0MB)
+2025-06-14 11:39:40,912 - comprehensive_max_units_optimization - INFO - Trial 2: -0.9449
+2025-06-14 11:39:41,164 - comprehensive_max_units_optimization - INFO - Trial 3: -10.5226 (duration: 0.17s, memory: 0.0MB)
+2025-06-14 11:39:41,194 - comprehensive_max_units_optimization - INFO - Trial 3: -10.5226
+2025-06-14 11:39:41,460 - comprehensive_max_units_optimization - INFO - Trial 4: -5.6088 (duration: 0.22s, memory: 0.0MB)
+2025-06-14 11:39:41,491 - comprehensive_max_units_optimization - INFO - Trial 4: -5.6088
+2025-06-14 11:39:41,718 - comprehensive_max_units_optimization - INFO - Trial 5: -1.6439 (duration: 0.17s, memory: 0.0MB)
+2025-06-14 11:39:41,748 - comprehensive_max_units_optimization - INFO - Trial 5: -1.6439
+2025-06-14 11:39:41,969 - comprehensive_max_units_optimization - INFO - Trial 6: 8.2267 (duration: 0.17s, memory: 0.0MB)
+2025-06-14 11:39:42,001 - comprehensive_max_units_optimization - INFO - Trial 6: 8.2267
+2025-06-14 11:39:42,222 - comprehensive_max_units_optimization - INFO - Trial 7: -4.0371 (duration: 0.17s, memory: 0.0MB)
+2025-06-14 11:39:42,255 - comprehensive_max_units_optimization - INFO - Trial 7: -4.0371
+2025-06-14 11:39:42,561 - comprehensive_max_units_optimization - INFO - Trial 8: -6.9793 (duration: 0.22s, memory: 0.0MB)
+2025-06-14 11:39:42,595 - comprehensive_max_units_optimization - INFO - Trial 8: -6.9793
+2025-06-14 11:39:42,817 - comprehensive_max_units_optimization - INFO - Trial 9: -10.1708 (duration: 0.17s, memory: 0.0MB)
+2025-06-14 11:39:42,848 - comprehensive_max_units_optimization - INFO - Trial 9: -10.1708
+2025-06-14 11:39:43,061 - comprehensive_max_units_optimization - INFO - Trial 10: -3.4550 (duration: 0.17s, memory: 0.0MB)
+2025-06-14 11:42:24,560 - comprehensive_max_units_optimization - INFO - Trial 14: -21.2832 (duration: 0.57s, memory: 0.0MB)
+2025-06-14 11:42:25,208 - comprehensive_max_units_optimization - INFO - Trial 13: -16.3952 (duration: 0.76s, memory: 0.0MB)
+2025-06-14 11:42:25,270 - comprehensive_max_units_optimization - INFO - Trial 19: -85.2084 (duration: 0.74s, memory: 0.0MB)
+2025-06-14 11:42:25,754 - comprehensive_max_units_optimization - INFO - Trial 25: -31.6955 (duration: 1.63s, memory: 0.0MB)
+2025-06-14 11:42:26,041 - comprehensive_max_units_optimization - INFO - Trial 20: -8.0903 (duration: 1.94s, memory: 0.0MB)
+2025-06-14 11:42:26,401 - comprehensive_max_units_optimization - INFO - Trial 14: -21.2832
+2025-06-14 11:42:26,450 - comprehensive_max_units_optimization - INFO - Trial 22: -8.7990 (duration: 2.39s, memory: 0.0MB)
+2025-06-14 11:42:26,823 - comprehensive_max_units_optimization - INFO - Trial 24: -3.7069 (duration: 2.26s, memory: 0.0MB)
+2025-06-14 11:42:26,919 - comprehensive_max_units_optimization - INFO - Trial 23: -18.1785 (duration: 2.24s, memory: 0.0MB)
+2025-06-14 11:42:27,205 - comprehensive_max_units_optimization - INFO - Trial 13: -16.3952
+2025-06-14 11:42:27,322 - comprehensive_max_units_optimization - INFO - Trial 29: -2.5017 (duration: 2.71s, memory: 0.0MB)
+2025-06-14 11:42:27,872 - comprehensive_max_units_optimization - INFO - Dashboard updated: comprehensive_max_units_optimization_dashboard.html
+2025-06-14 11:42:28,076 - comprehensive_max_units_optimization - INFO - Trial 15: -11.0248 (duration: 3.40s, memory: 0.0MB)
+2025-06-14 11:42:28,076 - comprehensive_max_units_optimization - INFO - Trial 18: -19.7859 (duration: 3.77s, memory: 0.0MB)
+2025-06-14 11:42:28,249 - comprehensive_max_units_optimization - INFO - Trial 25: -31.6955
+2025-06-14 11:42:28,311 - comprehensive_max_units_optimization - INFO - Trial 16: -13.4205 (duration: 3.66s, memory: 0.0MB)
+2025-06-14 11:42:28,469 - comprehensive_max_units_optimization - INFO - Trial 11: -3.9411 (duration: 4.36s, memory: 0.0MB)
+2025-06-14 11:42:28,854 - comprehensive_max_units_optimization - INFO - Trial 12: -8.7747 (duration: 4.81s, memory: 0.0MB)
+2025-06-14 11:42:29,054 - comprehensive_max_units_optimization - INFO - Trial 28: -12.0524 (duration: 3.65s, memory: 0.0MB)
+2025-06-14 11:42:29,194 - comprehensive_max_units_optimization - INFO - Trial 17: -13.0672 (duration: 4.62s, memory: 0.0MB)
+2025-06-14 11:42:29,328 - comprehensive_max_units_optimization - INFO - Trial 21: -2.4695 (duration: 2.47s, memory: 0.0MB)
+2025-06-14 11:42:29,373 - comprehensive_max_units_optimization - INFO - Trial 26: -2.5478 (duration: 4.78s, memory: 0.0MB)
+2025-06-14 11:42:29,754 - comprehensive_max_units_optimization - INFO - Trial 19: -85.2084
+2025-06-14 11:42:30,087 - comprehensive_max_units_optimization - INFO - Trial 22: -8.7990
+2025-06-14 11:42:30,146 - comprehensive_max_units_optimization - INFO - Trial 20: -8.0903
+2025-06-14 11:42:30,204 - comprehensive_max_units_optimization - INFO - Trial 18: -19.7859
+2025-06-14 11:42:30,392 - comprehensive_max_units_optimization - INFO - Trial 23: -18.1785
+2025-06-14 11:42:30,404 - comprehensive_max_units_optimization - INFO - Trial 15: -11.0248
+2025-06-14 11:42:30,417 - comprehensive_max_units_optimization - INFO - Trial 21: -2.4695
+2025-06-14 11:42:30,420 - comprehensive_max_units_optimization - INFO - Trial 28: -12.0524
+2025-06-14 11:42:30,498 - comprehensive_max_units_optimization - INFO - Trial 12: -8.7747
+2025-06-14 11:42:30,511 - comprehensive_max_units_optimization - INFO - Trial 27: -2.7385 (duration: 3.07s, memory: 0.0MB)
+2025-06-14 11:42:30,551 - comprehensive_max_units_optimization - INFO - Trial 24: -3.7069
+2025-06-14 11:42:30,556 - comprehensive_max_units_optimization - INFO - Trial 11: -3.9411
+2025-06-14 11:42:30,590 - comprehensive_max_units_optimization - INFO - Trial 16: -13.4205
+2025-06-14 11:42:30,872 - comprehensive_max_units_optimization - INFO - Trial 30: -8.1201 (duration: 1.47s, memory: 0.0MB)
+2025-06-14 11:42:31,032 - comprehensive_max_units_optimization - INFO - Dashboard updated: comprehensive_max_units_optimization_dashboard.html
+2025-06-14 11:42:31,241 - comprehensive_max_units_optimization - INFO - Trial 26: -2.5478
+2025-06-14 11:42:31,329 - comprehensive_max_units_optimization - INFO - Trial 17: -13.0672
+2025-06-14 11:42:31,423 - comprehensive_max_units_optimization - INFO - Trial 29: -2.5017
+2025-06-14 11:42:31,499 - comprehensive_max_units_optimization - INFO - Trial 27: -2.7385
+2025-06-14 11:42:31,533 - comprehensive_max_units_optimization - INFO - Trial 30: -8.1201
+2025-06-14 11:42:31,586 - comprehensive_max_units_optimization - INFO - 🎉 Generating final report
+2025-06-14 11:42:31,690 - comprehensive_max_units_optimization - INFO - ✅ Final report: comprehensive_max_units_optimization_final_report.json
+2025-06-14 11:42:31,690 - comprehensive_max_units_optimization - INFO - ✅ Dashboard: comprehensive_max_units_optimization_dashboard.html
+2025-06-14 11:42:31,701 - comprehensive_max_units_optimization - INFO - 🏆 Best value: 8.2267
+2025-06-16 18:04:33,206 - comprehensive_max_units_optimization - INFO - Trial 35: -7.0326 (duration: 1.32s, memory: 0.0MB)
+2025-06-16 18:04:33,455 - comprehensive_max_units_optimization - INFO - Trial 33: -4.2946 (duration: 1.56s, memory: 0.0MB)
+2025-06-16 18:04:34,258 - comprehensive_max_units_optimization - INFO - Trial 49: -9.7057 (duration: 1.62s, memory: 0.0MB)
+2025-06-16 18:04:34,456 - comprehensive_max_units_optimization - INFO - Trial 37: -5.5047 (duration: 2.50s, memory: 0.0MB)
+2025-06-16 18:04:34,840 - comprehensive_max_units_optimization - INFO - Trial 31: -7.5491 (duration: 2.77s, memory: 0.0MB)
+2025-06-16 18:04:35,154 - comprehensive_max_units_optimization - INFO - Trial 42: -4.0972 (duration: 3.24s, memory: 0.0MB)
+2025-06-16 18:04:35,250 - comprehensive_max_units_optimization - INFO - Trial 32: -10.2378 (duration: 2.27s, memory: 0.0MB)
+2025-06-16 18:04:35,462 - comprehensive_max_units_optimization - INFO - Trial 39: -10.1257 (duration: 3.12s, memory: 0.0MB)
+2025-06-16 18:04:35,845 - comprehensive_max_units_optimization - INFO - Trial 35: -7.0326
+2025-06-16 18:04:35,944 - comprehensive_max_units_optimization - INFO - Trial 44: -9.3232 (duration: 3.90s, memory: 0.0MB)
+2025-06-16 18:04:36,216 - comprehensive_max_units_optimization - INFO - Trial 43: -7.4786 (duration: 3.61s, memory: 0.0MB)
+2025-06-16 18:04:36,410 - comprehensive_max_units_optimization - INFO - Trial 46: -23.7363 (duration: 4.00s, memory: 0.0MB)
+2025-06-16 18:04:36,718 - comprehensive_max_units_optimization - INFO - Trial 37: -5.5047
+2025-06-16 18:04:36,766 - comprehensive_max_units_optimization - INFO - Trial 40: -6.2824 (duration: 3.67s, memory: 0.0MB)
+2025-06-16 18:04:37,019 - comprehensive_max_units_optimization - INFO - Trial 48: -7.1863 (duration: 3.81s, memory: 0.0MB)
+2025-06-16 18:04:37,037 - comprehensive_max_units_optimization - INFO - Trial 31: -7.5491
+2025-06-16 18:04:37,076 - comprehensive_max_units_optimization - INFO - Trial 45: -4.7975 (duration: 4.14s, memory: 0.0MB)
+2025-06-16 18:04:37,182 - comprehensive_max_units_optimization - INFO - Trial 49: -9.7057
+2025-06-16 18:04:37,435 - comprehensive_max_units_optimization - INFO - Trial 32: -10.2378
+2025-06-16 18:04:37,483 - comprehensive_max_units_optimization - INFO - Trial 33: -4.2946
+2025-06-16 18:04:37,737 - comprehensive_max_units_optimization - INFO - Trial 42: -4.0972
+2025-06-16 18:04:38,004 - comprehensive_max_units_optimization - INFO - Trial 39: -10.1257
+2025-06-16 18:04:38,039 - comprehensive_max_units_optimization - INFO - Trial 47: -32.4775 (duration: 4.10s, memory: 0.0MB)
+2025-06-16 18:04:38,094 - comprehensive_max_units_optimization - INFO - Trial 46: -23.7363
+2025-06-16 18:04:38,282 - comprehensive_max_units_optimization - INFO - Trial 34: -10.3664 (duration: 5.07s, memory: 0.0MB)
+2025-06-16 18:04:38,458 - comprehensive_max_units_optimization - INFO - Trial 38: -20.6805 (duration: 2.98s, memory: 0.0MB)
+2025-06-16 18:04:38,543 - comprehensive_max_units_optimization - INFO - Trial 44: -9.3232
+2025-06-16 18:04:38,553 - comprehensive_max_units_optimization - INFO - Trial 43: -7.4786
+2025-06-16 18:04:38,559 - comprehensive_max_units_optimization - INFO - Trial 50: -11.9220 (duration: 2.06s, memory: 0.0MB)
+2025-06-16 18:04:38,658 - comprehensive_max_units_optimization - INFO - Trial 36: -5.4290 (duration: 6.42s, memory: 0.0MB)
+2025-06-16 18:04:38,765 - comprehensive_max_units_optimization - INFO - Trial 41: -10.6831 (duration: 5.81s, memory: 0.0MB)
+2025-06-16 18:04:38,954 - comprehensive_max_units_optimization - INFO - Trial 48: -7.1863
+2025-06-16 18:04:39,016 - comprehensive_max_units_optimization - INFO - Trial 47: -32.4775
+2025-06-16 18:04:39,169 - comprehensive_max_units_optimization - INFO - Trial 45: -4.7975
+2025-06-16 18:04:39,269 - comprehensive_max_units_optimization - INFO - Trial 41: -10.6831
+2025-06-16 18:04:39,339 - comprehensive_max_units_optimization - INFO - Trial 36: -5.4290
+2025-06-16 18:04:39,549 - comprehensive_max_units_optimization - INFO - Trial 38: -20.6805
+2025-06-16 18:04:39,800 - comprehensive_max_units_optimization - INFO - Trial 34: -10.3664
+2025-06-16 18:04:42,709 - comprehensive_max_units_optimization - INFO - Dashboard updated: comprehensive_max_units_optimization_dashboard.html
+2025-06-16 18:04:42,711 - comprehensive_max_units_optimization - INFO - Dashboard updated: comprehensive_max_units_optimization_dashboard.html
+2025-06-16 18:04:42,791 - comprehensive_max_units_optimization - INFO - Trial 50: -11.9220
+2025-06-16 18:04:42,891 - comprehensive_max_units_optimization - INFO - Trial 40: -6.2824
+2025-06-16 18:04:42,983 - comprehensive_max_units_optimization - INFO - 🎉 Generating final report
+2025-06-16 18:04:43,111 - comprehensive_max_units_optimization - INFO - ✅ Final report: comprehensive_max_units_optimization_final_report.json
+2025-06-16 18:04:43,111 - comprehensive_max_units_optimization - INFO - ✅ Dashboard: comprehensive_max_units_optimization_dashboard.html
+2025-06-16 18:04:43,125 - comprehensive_max_units_optimization - INFO - 🏆 Best value: 8.2267
