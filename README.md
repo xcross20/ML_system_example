@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![ML Framework](https://img.shields.io/badge/ML-scikit--learn%20%7C%20XGBoost-orange.svg)](https://scikit-learn.org)
 [![Optimization](https://img.shields.io/badge/Optimization-Bayesian%20%7C%20Optuna-green.svg)](https://optuna.org)
-[![Status](https://img.shields.io/badge/Status-Production%20Deployed-success.svg)](#
+[![Status](https://img.shields.io/badge/Status-Production%20Deployed-success.svg)]
 
 ## > ⚠️ This repository is shared for review purposes only. Forking, cloning, redistribution, or reuse of any part of this code is strictly prohibited.
 ##  Overview
