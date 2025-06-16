@@ -7,7 +7,7 @@
 [![Optimization](https://img.shields.io/badge/Optimization-Bayesian%20%7C%20Optuna-green.svg)](https://optuna.org)
 [![Status](https://img.shields.io/badge/Status-Production%20Deployed-success.svg)]
 
-## > ⚠️ This repository is shared for review purposes only. Forking, cloning, redistribution, or reuse of any part of this code is strictly prohibited.
+##  ⚠️ This repository is shared for review purposes only. Forking, cloning, redistribution, or reuse of any part of this code is strictly prohibited.
 ##  Overview
 
 A sophisticated ML system developed over 8 years for high-frequency sequential pattern recognition in noisy environments. Built to solve real business problems with measurable ROI, this system combines advanced optimization techniques with production-grade engineering practices.
