@@ -148,12 +148,12 @@ OpenAI GPT-4 API integrated via structured prompts to generate decision rules ba
 
 **Example Rule Structure**
 ```python
-if (confidence > 0.75 and volatility < 0.02 and trend_strength > 0.6):
-    position_size = base_size * 1.5
-elif (confidence < 0.4 or volatility > 0.05):
-    position_size = 0
+if (kpi1 > 0.75 and kpi2 < 0.02 and kpi3 > 0.6):
+    kpi5 = kpi4 * 1.5
+elif (kpi1 < 0.4 or kpi2 > 0.05):
+    kpi5 = 0
 else:
-    position_size = base_size * confidence
+    kpi5 = kpi4 * kpi1
 ```
 
 ---
