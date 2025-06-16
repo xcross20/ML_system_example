@@ -16,7 +16,7 @@ A sophisticated ML system developed over 8 years for high-frequency sequential p
 -  **500+ parameter combinations** tested via advanced Bayesian optimization
 -  **18-35% performance improvements** delivered for enterprise clients
 -  **Real-time monitoring** with interactive dashboards and alerts
--  **Production-grade infrastructure** with 200+ unit tests and 90% coverage
+-  **Production-grade infrastructure** with 200+ sim tests and 90% coverage
 
 ---
 
@@ -60,13 +60,13 @@ A sophisticated ML system developed over 8 years for high-frequency sequential p
 
 ### Production Engineering
 - **Real-Time Monitoring**: Interactive Plotly dashboards with live performance metrics
-- **Comprehensive Testing**: 200+ unit tests with 90% code coverage
+- **Comprehensive Testing**: 200+ simulation tests with 90% code coverage
 - **Memory Optimization**: Efficient handling of large-scale parameter spaces
 - **Crash Recovery**: Checkpoint system with automated recovery mechanisms
 - **Professional Logging**: Structured logging with performance tracking
 
 ### Business Intelligence
-- **ROI Tracking**: Detailed profit/loss analysis with risk-adjusted metrics
+- **ROI Tracking**: Detailed gain/loss analysis with risk-adjusted metrics
 - **Client Reporting**: Automated performance reports with key metrics
 - **A/B Testing**: Framework for testing different strategies
 - **Risk Management**: Sophisticated drawdown controls and exit strategies
@@ -219,7 +219,7 @@ comprehensive_score = primary_score + risk_adjusted + consistency + robustness
 
 ### Test Coverage
 ```
-Unit Tests:           200+ tests
+Sim Tests:           200+ tests
 Code Coverage:        90%+ on critical paths
 Integration Tests:    End-to-end system validation
 Performance Tests:    Load testing for 25M+ simulations
@@ -264,7 +264,7 @@ This repository showcases production ML engineering capabilities. While the core
 
 This repository showcases a production machine learning system through **demonstration data only**. All outputs, results, and examples are simulated to protect:
 
--  Confidentiality and data privacy
+- Confidentiality and data privacy
 - Proprietary  algorithms and strategies  
 - Sensitive financial information and performance data
 - Intellectual property and competitive advantages
@@ -311,9 +311,10 @@ This approach follows industry best practices for:
 
 ##  For Technical Evaluation
 
-Hiring managers and technical reviewers can assess:
+I designed this readme so hiring managers and technical reviewers can assess my skills in:
 
 - **Systems thinking** and architectural design capabilities
+- **Data Analysis** and engineering skills
 - **Production engineering** skills and best practices
 - **Business acumen** and ROI-focused development approach
 - **Professional standards** for data privacy and IP protection
