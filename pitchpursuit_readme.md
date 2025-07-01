@@ -1,5 +1,7 @@
 #  PitchPursuit - AI-Powered Lead Generation & Sales Productivity Platform
 
+Designed by: Immanuel Lewis
+
 *Transform Your Sales Process: From Manual Research to AI-Powered Personalized Outreach*
 
 A comprehensive AI-powered lead generation system that helps sales teams across multiple industries discover, enrich, score, and personalize outreach to high-quality prospects. Originally designed for restaurant technology sales, PitchPursuit now serves various industries including social media agencies, local marketing firms, POS companies, online ordering platforms, and B2B tech companies.
