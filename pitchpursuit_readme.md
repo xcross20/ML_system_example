@@ -345,7 +345,7 @@ BAD_FIT_CATEGORIES = [
 }
 ```
 
-## 🚀 Performance & Scaling
+##  Performance & Scaling
 
 ### Optimization Features
 - **Parallel Processing** - Handle multiple searches simultaneously
@@ -361,7 +361,7 @@ BAD_FIT_CATEGORIES = [
 - **API Response** - < 200ms for cached data
 - **Concurrent Users** - Supports multiple simultaneous searches
 
-## 🛡 Security & Compliance
+##  Security & Compliance
 
 ### Data Protection
 - **API Key Security** - Secure environment variable storage
@@ -376,7 +376,7 @@ BAD_FIT_CATEGORIES = [
 - **GDPR Compliant** - No personal data collection
 - **Business Focus** - Targets business information only
 
-## 🧪 Testing Your Setup
+##  Testing Your Setup
 
 Use the built-in Google Places API test script:
 
@@ -407,7 +407,7 @@ This will verify:
 - [ ] **Competitive Intelligence** - Market positioning and gap analysis
 - [ ] **Territory Optimization** - AI-powered territory planning
 
-## 📞 Support & Documentation
+##  Support & Documentation
 
 ### Getting Help
 - **Health Check**: `/health` - System diagnostics and status
