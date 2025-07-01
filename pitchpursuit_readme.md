@@ -1,10 +1,10 @@
-# 🚀 PitchPursuit - AI-Powered Lead Generation & Sales Productivity Platform
+#  PitchPursuit - AI-Powered Lead Generation & Sales Productivity Platform
 
 *Transform Your Sales Process: From Manual Research to AI-Powered Personalized Outreach*
 
 A comprehensive AI-powered lead generation system that helps sales teams across multiple industries discover, enrich, score, and personalize outreach to high-quality prospects. Originally designed for restaurant technology sales, PitchPursuit now serves various industries including social media agencies, local marketing firms, POS companies, online ordering platforms, and B2B tech companies.
 
-## 📌 Overview
+##  Overview
 
 **Core Problem Solved:** Sales teams waste 70% of their time on manual lead research, data entry, and generic outreach preparation instead of actual selling activities.
 
@@ -19,7 +19,7 @@ A comprehensive AI-powered lead generation system that helps sales teams across 
 
 **Result:** Sales reps spend 80% more time selling and 80% less time on admin tasks.
 
-## 🎯 Target Industries & Use Cases
+##  Target Industries & Use Cases
 
 ### Core Industries Served
 - **SaaS & Technology Companies** - CRM, project management, analytics platforms
@@ -39,63 +39,63 @@ A comprehensive AI-powered lead generation system that helps sales teams across 
 - **Professional Services CRM** - Client management, billing, project tracking
 - **Healthcare Practice Management** - Patient scheduling, billing, communication
 
-## 🆕 Latest Features & Capabilities
+##  Latest Features & Capabilities
 
-### 🎨 Modern React Frontend
+###  Modern React Frontend
 - **Professional UI/UX** - Clean, responsive design optimized for sales teams
 - **Real-time Search** - Instant lead discovery with live results
 - **Interactive Dashboard** - Comprehensive analytics and performance tracking
 - **Mobile-Responsive** - Works seamlessly on desktop, tablet, and mobile devices
 
-### 🔐 Authentication & User Management
+###  Authentication & User Management
 - **Google OAuth Integration** - Secure sign-in with Google accounts
 - **Demo Mode** - Try the platform without registration
 - **Session Management** - Persistent user sessions with secure token handling
 - **Multi-user Support** - Team collaboration features
 
-### 🧠 Advanced Business Intelligence
+###  Advanced Business Intelligence
 - **Website Analysis Engine** - Deep analysis of any business website
 - **Technology Stack Detection** - Identifies CMS, e-commerce platforms, tools in use
 - **Digital Maturity Scoring** - 0-100 assessment of online presence quality
 - **Competitive Gap Analysis** - Identifies missing features and opportunities
 - **Business Reports** - Comprehensive reports with actionable insights
 
-### 🎯 Enhanced Lead Scoring (SH Fit 2.0)
+###  Enhanced Lead Scoring (SH Fit 2.0)
 - **Multi-Industry Scoring** - Configurable algorithms for different business types
 - **Category Classification** - Strong vs. Moderate vs. Poor Fit prospects
 - **Traffic Analysis** - Website traffic estimation and requirements
 - **Franchise Detection** - Automatic filtering of chains and franchises
 - **Custom Criteria** - Set your own qualification thresholds
 
-### 💬 AI-Powered Pitch Personalization
+###  AI-Powered Pitch Personalization
 - **GPT-4 Integration** - Advanced AI analysis for personalized messaging
 - **Website Content Analysis** - Extracts key business insights automatically
 - **Custom Email Openers** - Tailored opening lines for each prospect
 - **Revenue Opportunity Identification** - Highlights specific growth potential
 - **Conversation Starters** - Phone call talking points and ice breakers
 
-### 🔄 Smart Deduplication System
+###  Smart Deduplication System
 - **HubSpot CRM Integration** - Real-time duplicate checking against your CRM
 - **CSV Upload Processing** - Compare against existing lead lists
 - **Fuzzy Matching** - Intelligent name, phone, and domain matching
 - **Confidence Scoring** - High/Medium/Low confidence duplicate detection
 - **Bulk Processing** - Handle large datasets efficiently
 
-### 📊 Comprehensive Analytics
+###  Comprehensive Analytics
 - **Search Performance** - Track lead generation effectiveness over time
 - **Quality Metrics** - Monitor lead scoring accuracy and conversion rates
 - **Territory Management** - Geographic distribution of prospects
 - **Export Analytics** - Track which leads convert to customers
 - **ROI Tracking** - Measure return on investment from the platform
 
-### 🔧 Developer Tools & API
+###  Developer Tools & API
 - **RESTful API** - Complete REST API for custom integrations
 - **Debug Mode** - Detailed logging and troubleshooting tools
 - **Webhook Support** - Real-time notifications for new leads
 - **Batch Processing** - Handle multiple searches simultaneously
 - **Rate Limiting** - Automatic API quota management
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 - **Frontend**: React with modern JavaScript (ES6+)
 - **Backend**: Flask with comprehensive REST API
@@ -107,7 +107,7 @@ A comprehensive AI-powered lead generation system that helps sales teams across 
 - **Data Processing**: Pandas, fuzzy matching, domain analysis
 - **Export**: CSV, JSON with all lead data and enrichment
 
-## 📋 Quick Start
+##  Quick Start
 
 ### 1. Environment Setup
 
@@ -133,7 +133,7 @@ SERPAPI_KEY=your_serpapi_key_here             # Optional for enhanced search
 - **Health Check**: `/health` - System status and diagnostics
 - **API Documentation**: `/api/stats` - System statistics and API info
 
-## 🔌 API Usage
+##  API Usage
 
 ### Main Lead Generation Endpoint
 
@@ -249,7 +249,7 @@ GET /api/auth/google
 POST /api/auth/demo
 ```
 
-## 🎨 User Interface Features
+##  User Interface Features
 
 ### Main Dashboard
 - **Search Interface** - Intuitive form with industry/location selection
@@ -269,7 +269,7 @@ POST /api/auth/demo
 - **Territory Views** - Geographic distribution of prospects
 - **Export Reports** - Detailed analytics on lead quality and outcomes
 
-## 📊 Lead Scoring System (Enhanced)
+##  Lead Scoring System (Enhanced)
 
 ### Industry-Specific Scoring
 ```python
@@ -302,7 +302,7 @@ BAD_FIT_CATEGORIES = [
 - **Marginal Fit (60-69)**: Lower priority, nurture sequence
 - **Poor Fit (0-59)**: Not suitable, filter out
 
-## 🔄 Intelligent Deduplication
+##  Intelligent Deduplication
 
 ### Multi-Source Matching
 - **CRM Integration** - Real-time checks against HubSpot, Salesforce
@@ -316,7 +316,7 @@ BAD_FIT_CATEGORIES = [
 - **Medium Confidence** (80-94%): Similar names + location
 - **Low Confidence** (60-79%): Possible matches for review
 
-## 💡 AI-Powered Features
+##  AI-Powered Features
 
 ### Website Intelligence
 - **Content Extraction** - Automatically parses key business information
@@ -389,7 +389,7 @@ This will verify:
 - ✅ Data enrichment
 - ✅ Rate limiting
 
-## 🔮 Roadmap & Future Enhancements
+##  Roadmap & Future Enhancements
 
 ### Near-term Features
 - [ ] **Salesforce Integration** - Direct CRM import capabilities
@@ -422,7 +422,7 @@ This will verify:
 
 ---
 
-## 🏆 Success Metrics
+##  Success Metrics
 
 Sales teams using PitchPursuit typically achieve:
 
